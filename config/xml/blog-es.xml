@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog ES</title>
+	<atom:link href="http://www.prestashop.com/blog/es/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.prestashop.com/blog/es</link>
+	<description>Un blog de Ecommerce sobre cómo gestionar una tienda online.</description>
+	<lastBuildDate>Thu, 10 Apr 2014 15:47:06 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4</generator>
+		<item>
+		<title>Glosario de E-Commerce: Los 25 Términos Más Usados</title>
+		<link>http://www.prestashop.com/blog/es/glosario-de-e-commerce-los-25-terminos-mas-usados-2/</link>
+		<comments>http://www.prestashop.com/blog/es/glosario-de-e-commerce-los-25-terminos-mas-usados-2/#comments</comments>
+		<pubDate>Thu, 10 Apr 2014 15:47:06 +0000</pubDate>
+		<dc:creator>Carolina Rabinovich</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11262</guid>
+		<description><![CDATA[El e-commerce es para varios una aventura que no están dispuestos a tomar. Existe una serie de dudas que impiden experimentar con el mundo electrónico y el temor más grande es arriesgarse a lo desconocido. Por eso, hemos creado una &#8230; <a href="http://www.prestashop.com/blog/es/glosario-de-e-commerce-los-25-terminos-mas-usados-2/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>El e-commerce es para varios una aventura que no están dispuestos a tomar. Existe una serie de dudas que impiden experimentar con el mundo electrónico y el temor más grande es arriesgarse a lo desconocido. Por eso, hemos creado una lista con las definiciones necesarias para destruir tus miedos. Aquí te mostramos <strong>los 25 términos relacionados con el e-commerce</strong> que debes conocer para comenzar y mantener tu tienda online.</p>
+<p><img class="aligncenter size-full wp-image-11278" src="http://www.prestashop.com/blog/es/files/2014/04/ES_-Glosario-de-E-Commerce.jpg" alt="" width="578" height="278" /></p>
+<p><span id="more-11262"></span></p>
+<h4><span style="color: #800000;">1.Alojamiento web:</span></h4>
+<p>En inglés, web hosting, es el servicio que provee a los usuarios de Internet un sistema para poder almacenar información, imágenes, vídeo, o cualquier contenido accesible vía web.</p>
+<h4><span style="color: #800000;">2.Big data:</span></h4>
+<p>Sistemas capaces de manejar grandes conjuntos de datos, por lo que es posible analizar grandes cantidades de información, como por ejemplo toda la analítica de un ecommerce.</p>
+<h4><span style="color: #800000;">3.Back office (Motor):</span></h4>
+<p>Es la parte del software de comercio electrónico que permite a los comerciantes a administrar, operar y gestionar las tiendas online. Son los procesos internos y automáticos de gestión.</p>
+<h4><span style="color: #800000;">4.Cache:</span></h4>
+<p>Es un componente que almacena datos para que los futuros requerimientos a esos datos puedan ser servidos más rápidamente. Generalmente son datos temporales.</p>
+<h4><span style="color: #800000;">5.Carrito Abandonado:</span></h4>
+<p>Llamamos carrito abandonado al hecho de que un usuario que está navegando por nuestra tienda online, haya añadido un producto al carrito y se haya ido de la web sin terminar la compra.</p>
+<h4><span style="color: #800000;">6.Comunidad:</span></h4>
+<p>Grupo de personas a fines o participantes en determinadas plataformas. Siguen a una marca, realizan actividades y comparten su experiencia. ¡Únete a la <a href="http://www.prestashop.com/forums/" target="_blank">comunidad </a>de PrestaShop!</p>
+<h4><span style="color: #800000;">7. CPA, CPC, CPI, CPM, PPC:</span></h4>
+<p>Son términos que se refieren a los métodos que se emplean para medir los costos de una campaña publicitaria en Internet.</p>
+<ul>
+<li><strong> CPA</strong>: Es el coste por acción, mediante el cual no se paga cuando se hace clic en el anuncio sino cuando se hace algo más: comprar, suscribirse a algo, descargar software o lo que se haya indicado.</li>
+<li><strong> CPC</strong>: Es el coste por clic, lo que se paga por cada acceso a una página después de haber hecho clic en una publicidad.</li>
+<li><strong> CPI</strong>: Es coste por impresión, algo similar a CPM (en que se paga por cada mil impresiones).</li>
+<li><strong> CPM</strong>: Es el coste por mil impresiones de un anuncio.</li>
+<li><strong> PPC</strong>: Es pago por clic, lo mismo que CPC (coste por clic), aunque suelen utilizarlos los que compran publicidad, ya que los que venden la publicidad utilizan más el otro término.</li>
+</ul>
+<h4><span style="color: #800000;">8.Cuenta de comercio:</span></h4>
+<p>Es un tipo de cuenta que permite las transacciones con tarjetas de crédito online. En general es una cuenta con un procesador de pagos que permite procesar pagos online.</p>
+<h4><span style="color: #800000;">9.Ergonomía:</span></h4>
+<p>Adaptación gráfica y organizacional de un sitio web para optimizar la navegación y la facilidad de manejo de los internautas.</p>
+<h4><span style="color: #800000;">10. Front office (Interfaz):</span></h4>
+<p>Es la parte de un sistema de software que interactúa directamente con el usuario, son los procesos que están directamente relacionados con el cliente.</p>
+<h4><span style="color: #800000;">11.Inboud &amp; Outbound links:</span></h4>
+<ul>
+<li><strong>In</strong>: Es un link que conecta a una página web con otra. Son enlaces internos de una página web que apuntan a otras secciones de la web.</li>
+<li><strong>Out</strong>: Son los enlaces salientes de una página web, los que apuntan a otro sitio externo.</li>
+</ul>
+<h4><span style="color: #800000;">12.KPI:</span></h4>
+<p>Del inglés Key Performance Indicators, o <a href="http://www.prestashop.com/blog/es/los-10-kpis-que-todo-propietario-de-una-tienda-online-deberia-tener-vigilados/" target="_blank">Indicadores Clave de Desempeño</a>, miden el nivel del desempeño de un proceso, las estadísticas indicando el rendimiento de los procesos, de forma que se pueda alcanzar el objetivo fijado.</p>
+<h4><span style="color: #800000;">13. Llamadas a la acción:</span></h4>
+<p>Se trata de elementos visuales en el diseño web que buscan captar una acción por parte del usuario. Por ejemplo descargar un software, comprar el producto, pinchar un botón, etc.</p>
+<h4><span style="color: #800000;">14. Logística:</span></h4>
+<p>Todo lo relacionado con el almacenamiento, reparto y entrega de los productos que se comercializan.</p>
+<h4><span style="color: #800000;">15. M-Commerce:</span></h4>
+<p>Conocido como comercio móvil, toma sus bases del e-commerce, solo que llevando todas las transacciones a nivel de poder ser ejecutadas desde un teléfono móvil.</p>
+<h4><span style="color: #800000;">16. Multicanal:</span></h4>
+<p>Se trata de la posibilidad de vender utilizando diferentes canales (online, teléfonos móviles, sucursales, etc.), de manera que permita una combinación de todos.</p>
+<h4><span style="color: #800000;">17. Multitienda:</span></h4>
+<p>Cuando se tienen dos tiendas online conectadas al mismo back office.</p>
+<h4><span style="color: #800000;">18. Pasarela de pago:</span></h4>
+<p>Es la herramienta encargada de procesar el cobro y pago del producto, su principal objetivo es que se realice de manera rápida, sencilla y segura para el usuario.</p>
+<h4><span style="color: #800000;">19. Palabras claves:</span></h4>
+<p>Palabras o expresiones permitiendo la indexación de una página web por un buscador.</p>
+<h4><span style="color: #800000;">20. Productos digitales:</span></h4>
+<p>Son productos que se pueden descargar a través del Internet.</p>
+<ul>
+<li>Música</li>
+<li>Películas</li>
+<li>Vídeos</li>
+<li>Aplicaciones</li>
+<li>Módulos</li>
+</ul>
+<h4><span style="color: #800000;">21.Responsivo:</span></h4>
+<p>Se trata de un diseño web adaptativo que muestra una página diferente en función del dispositivo y las características del mismo desde el que se abra. Es de vital importancia para el m-commerce.</p>
+<h4><span style="color: #800000;">22.SEO:</span></h4>
+<p>(Search-Engine-Optimization) Proceso para mejorar la visibilidad de una página web en los diferentes buscadores de manera orgánica, es decir, sin pagar al buscador por las posiciones privilegiadas. ¡Descarga el <a href="http://addons.prestashop.com/es/seo-modulos-prestashop/175-seo.html" target="_blank">módulo de SEO</a> desarrollado por PrestaShop que se encarga de aumentar tu productividad automáticamente!</p>
+<h4><span style="color: #800000;">23. Tasa de conversión:</span></h4>
+<p>Es el indicador de referencia para traducir el resultado de un sitio web y medir el alcance de los objetivos. En e-commerce se calcula dividiendo el número de compradores por el número de visitas totales.</p>
+<p><img class="aligncenter size-full wp-image-11277" src="http://www.prestashop.com/blog/es/files/2014/04/ecuacion.png" alt="" width="343" height="84" /></p>
+<h4><span style="color: #800000;">24.Tráfico:</span></h4>
+<p>Se refiere al número de visitas y la actividad de éstas en una página web concreta.</p>
+<h4><span style="color: #800000;">25. UI &amp; UX:</span></h4>
+<ul>
+<li><strong>User interface</strong> o el interfaz de usuario: Es aquello con lo que el usuario se encontrará en su llegada al sitio, todo lo que permite a un usuario interactuar con el sistema: esto incluye componentes lógicos (software) y físicos (hardware).</li>
+<li><strong>User Experience</strong> o la experiencia del usuario: El término se refiere a lo que un usuario experimenta al navegar por una web o al interactuar con una aplicación y a cómo optimizarla para conseguir los mejores resultados.</li>
+</ul>
+<p>&#8212;</p>
+<p>No le tengas miedo al comercio electrónico, ¡ahora conoces los 25 términos más usados y puedes <a href="http://www.prestashop.com/es/descarga" target="_blank">descargar la plataforma</a> de PrestaShop o probar nuestro <a href="http://www.prestashop.com/es/demo" target="_blank">demo </a>para empezar tu tienda online!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/glosario-de-e-commerce-los-25-terminos-mas-usados-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>La Gira Mundial de PrestaShop: Australia, El Paraíso de E-commerce</title>
+		<link>http://www.prestashop.com/blog/es/la-gira-mundial-de-prestashop-australia-el-paraiso-de-e-commerce/</link>
+		<comments>http://www.prestashop.com/blog/es/la-gira-mundial-de-prestashop-australia-el-paraiso-de-e-commerce/#comments</comments>
+		<pubDate>Wed, 09 Apr 2014 15:32:25 +0000</pubDate>
+		<dc:creator>Quentin Audrain</dc:creator>
+				<category><![CDATA[PrestaShop World Tour]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11301</guid>
+		<description><![CDATA[¡No podíamos perdernos la oportunidad de pasar por Australia! Teníamos que conocer el país que se consolidó como la 12ª economía mundial y tiene unos de los sectores del comercio electrónico más desarrollados del mundo. También tuvimos el placer de &#8230; <a href="http://www.prestashop.com/blog/es/la-gira-mundial-de-prestashop-australia-el-paraiso-de-e-commerce/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>¡No podíamos perdernos la oportunidad de pasar por Australia! Teníamos que conocer el país que se consolidó como la 12ª economía mundial y tiene unos de los sectores del comercio electrónico más desarrollados del mundo.</p>
+<p>También tuvimos el placer de conocer a Stuart, el fundador de <a href="http://infronttech.com.au/" target="_blank">InFrontTech</a>, una de las empresas de seguridad más grandes de Sídney.</p>
+<p><img class="aligncenter  wp-image-11305" src="http://www.prestashop.com/blog/es/files/2014/04/PrestaShop-Australia.jpg" alt="" width="568" height="384" /></p>
+<p><span id="more-11301"></span>Los Australianos gastan un promedio de $2.108 por año en compras online, demostrando que Australia tiene un mercado de e-commerce significativo.</p>
+<p>En el 2013, el sector de comercio electrónico australiano fue valorado alrededor de $37 billones, un líder mundial. Además, hay que tener en cuenta que Australia <strong>solo tiene 24 millones de habitantes</strong>.</p>
+<p>Ahora, es momento de entrevistar a Stuart para aprender más sobre el e-commerce australiano ¡Allá vamos!<br />
+<iframe src="//player.vimeo.com/video/91518843" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br />
+<strong>Próxima parada</strong>: ¡Buenos Aires!</p>
+<p>¿Quieres que vayamos a tu país y presentemos tu tienda online? Déjanos un comentario o escríbenos en las redes sociales usando el hashtag<strong> #PSWorldTour</strong>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/la-gira-mundial-de-prestashop-australia-el-paraiso-de-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>25 Formas de Hacer Tu Primera Venta Online</title>
+		<link>http://www.prestashop.com/blog/es/25-formas-de-hacer-tu-primera-venta-online/</link>
+		<comments>http://www.prestashop.com/blog/es/25-formas-de-hacer-tu-primera-venta-online/#comments</comments>
+		<pubDate>Tue, 08 Apr 2014 15:02:36 +0000</pubDate>
+		<dc:creator>Carolina Rabinovich</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11246</guid>
+		<description><![CDATA[Para todos los emprendedores del comercio electrónico que ya están listos para compartir sus tiendas con sus clientes, aquí encontrarán 25 ideas para hacer sus primeras ventas. Te alentamos a que pruebes estos métodos, usando diferentes medios de comunicación, para &#8230; <a href="http://www.prestashop.com/blog/es/25-formas-de-hacer-tu-primera-venta-online/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Para todos los emprendedores del comercio electrónico que ya están listos para compartir sus tiendas con sus clientes, aquí encontrarán <strong>25 ideas para hacer sus primeras ventas</strong>.</p>
+<p>Te alentamos a que pruebes estos métodos, usando diferentes medios de comunicación, para que empieces la trayectoria que generará ganancias. ¡<strong>Descubre las formas de lograr tu primera venta online</strong>!</p>
+<p><img class="aligncenter size-full wp-image-11248" src="http://www.prestashop.com/blog/es/files/2014/04/ES_25-Simple-Ideas-to-Make-your-First-Sale-Online-Image.jpg" alt="" width="580" height="230" /></p>
+<p><span id="more-11246"></span></p>
+<h4><span style="color: #008080">1. Cuéntale a todo el mundo</span></h4>
+<p>Comenta sobre el lanzamiento de tu tienda online con todos tus amigos y familiares. Anímalos a compartir enlaces de tu tienda en sus propias redes sociales de Facebook, Twitter, Pinterest, etc.</p>
+<h4><span style="color: #008080">2. Haz relaciones públicas</span></h4>
+<p>Las relaciones públicas pueden para llevar tu marca a la fama. Si se realiza correctamente, los medios de comunicación te ayudarán a conseguir clientes y tu primera venta.</p>
+<h4><span style="color: #008080">3. Envía muestras gratuitas a bloggers con influencia</span></h4>
+<p>Regala productos a los bloggers más populares que cuentan con miles de seguidores y una gran audiencia online.</p>
+<h4><span style="color: #008080">4. Crea tu propio blog</span></h4>
+<p>No pierdas el potencial ilimitado de un blog. Puedes producir contenido gratuito y valioso, crearás confianza en tu marca, mantendrás informados a tus clientes y te ayudará a posicionarte en los motores de búsqueda.</p>
+<h4><span style="color: #008080">5. Construye una lista de emails</span></h4>
+<p>Incluye una forma de suscripción a tu tienda online y ofrece algún incentivo para que los usuarios se suscriban. Es mucho más fácil poder hacer tu primera venta si puedes mandar información sobre productos directamente a las bandejas de entradas de tus potenciales clientes.</p>
+<h4><span style="color: #008080">6. Publica un boletín</span></h4>
+<p>Mantente en contacto con tus clientes. Manda boletines con información relevante, introduce nuevos productos, comparte las últimas tendencias y recuérdales a tus clientes volver a visitar tu tienda online.</p>
+<h4><span style="color: #008080">7. Aprende a usar AdWords</span></h4>
+<p>Aprovecha la herramienta de Google que te permite llegar a clientes nuevos colocando anuncios en los resultados de búsqueda. Crea una campaña con <a href="https://support.google.com/adwords/answer/1704410?hl=es" target="_blank">Google AdWords</a> con texto, imágenes o vídeo y diseña anuncios segmentados con palabras claves.</p>
+<h4><span style="color: #008080">8. Vende en otras Marketplaces</span></h4>
+<p>La ventaja de vender en eBay o Amazon es el incremento de visibilidad y ventas. Además, permite que las grandes empresas promocionen tus productos. Puedes usar los <a href="http://addons.prestashop.com/es/buscar?search_query=marketplace" target="_blank">módulos de PrestaShop</a> para exportar tus productos a otras tiendas online.</p>
+<h4><span style="color: #008080">9. Participa en foros</span></h4>
+<p>Las discusiones en los foros online son excelentes lugares para dar consejos, responder preguntas y ganar clientes (la idea no es promocionar tus productos, sino ayudar).</p>
+<h4><span style="color: #008080">10. LinkedIn</span></h4>
+<p>Conéctate con los grupos de <a href="https://www.linkedin.com/company/489118?trk=tyah&amp;trkInfo=tarId%3A1396390612822%2Ctas%3Aprestashop%2Cidx%3A2-1-2" target="_blank">LinkedIn </a>que son útiles para conocer a otros empresarios del sector e-commerce. Usando esta red social de perfiles profesionales descubrirás nuevas oportunidades con empresas, proveedores y clientes.</p>
+<h4><span style="color: #008080">11. Twitter</span></h4>
+<p>Usa los 140 caracteres de un mensaje de <a href="https://twitter.com/prestashop" target="_blank">Twitter </a>para atraer a nuevos clientes con contenido informativo y divertido. Responde, retwittea, @etiquetea y usa #hashtags.</p>
+<h4><span style="color: #008080">12. Pinterest</span></h4>
+<p>Demuestra tu creatividad y pasión por tu negocio creando tableros en <a href="http://www.pinterest.com/prestashop/" target="_blank">Pinterest</a>. Comparte fotos de tus productos, ideas creativas, promociones y mucho más aumentando tu popularidad en las redes sociales.</p>
+<h4><span style="color: #008080">13. Instagram</span></h4>
+<p>Comparte la historia de tu tienda online vía <a href="http://instagram.com/prestashop#" target="_blank">Instagram</a>. Publica fotos de tus productos, ideas de cómo usarlos y acumula seguidores. Lee este artículo sobre la <a href="http://www.eluniverso.com/noticias/2013/05/15/nota/927856/magia-instagram-hacer-negocios" target="_blank">magia de Instagram</a> para hacer negocios.</p>
+<h4><span style="color: #008080">14. Facebook</span></h4>
+<p><a href="https://www.facebook.com/prestashop" target="_blank">Facebook </a>es la red social más poderosa. Crea un perfil para interactuar con amigos, familiares y clientes para que hablen de tu tienda y compartan tus productos. Actualiza tu estado y únete a los grupos y páginas de fans del sector e-commerce.</p>
+<h4><span style="color: #008080">15. Vídeos (YouTube &amp; Vimeo)</span></h4>
+<p>Enseña tu tienda y tus productos con vídeos interactivos. Asegúrate de tener videos de buena calidad con contenido interesante como éste: <a href="http://vimeo.com/75405291" target="_blank">PrestaShop 1.6</a>.</p>
+<h4><span style="color: #008080">16. Ofrece promociones en tus redes sociales</span></h4>
+<p>Todos aman las cosas gratis, así que un concurso o regalo puede ayudarte. Integra tus redes sociales y comparte promociones especiales en Facebook, Twitter, Pinterest, etc.</p>
+<h4><span style="color: #008080">17. Construye las relaciones adecuadas</span></h4>
+<p>La clave está en construir relaciones con personas alineadas a tu negocio, pero que no sean competencia. Por ejemplo, proveedores, blogs y sitios Web que se enfoquen en el sector e-commerce.</p>
+<h4><span style="color: #008080">18. Cuenta con el Marketing offline</span></h4>
+<p>Ordena tarjetas de negocio y folletos elegantes y asegúrate que reflejen el diseño de tu tienda. Pide tus productos en páginas como <a href="http://uk.moo.com/es/" target="_blank">Moo.com</a> que ofrece tarjetas de buena calidad a precios accesibles.</p>
+<h4><span style="color: #008080">19. Patrocina un evento</span></h4>
+<p>Celebra la apertura de tu tienda online y promociona tu marca. Es una gran manera de generar contenido para tus redes sociales, crear publicidad y conocer a tus futuros clientes.</p>
+<h4><span style="color: #008080">20. Crea un código de descuento</span></h4>
+<p>Inventa un código de descuento para tu tienda online y publícalo en páginas de descuentos como <a href="http://www.retailmenot.com/" target="_blank">RetailMeNot.com</a>. Promocionando tus ofertas aumentarás la visibilidad de tu tienda, la cantidad de clientes y conseguirás tu primera venta.</p>
+<h4><span style="color: #008080">21. Ten un programa de afiliados</span></h4>
+<p>Organiza un programa de afiliados donde le pagas a internautas por compartir y promover tus productos. Por ejemplo, tus proveedores promocionan tu marca en sus páginas web agregando enlaces conectados a tu tienda y ganan un porcentaje de las ventas originadas.</p>
+<h4><span style="color: #008080">22. Haz un estudio de mercado</span></h4>
+<p>Estudia los comportamientos de tus consumidores y los precios de tus competidores. Con precios competitivos atraerás a más clientes a tu tienda online con el objetivo de tener tu primer venta.</p>
+<h4><span style="color: #008080">23. Optimiza tu SEO</span></h4>
+<p>Asegúrate de que tu tienda online se diseñe conforme a los requisitos de los motores de búsqueda. Optimiza el contenido usando palabras claves y buenas descripciones de productos. Puedes conseguir módulos de SEO en la <a href="http://addons.prestashop.com/es/seo-modulos-prestashop/175-seo.html" target="_blank">Marketplace de PrestaShop</a>.</p>
+<h4><span style="color: #008080">24. Crea una Infografía</span></h4>
+<p>Una infografía es un gráfico de información o una representación visual de datos y estadísticas. Aunque no son sencillas de crear, son valiosas cuando se trata de aumentar tu visibilidad en redes sociales.</p>
+<h4><span style="color: #008080">25. Atiende eventos de networking</span></h4>
+<p>Conectarse con gente es una forma adicional de promocionar tu tienda online. Conoce e interactúa con gente del sector e-commerce para aprender las últimas tendencias y conocer a tus futuros clientes.</p>
+<p>¿Te acuerdas cual fue tu primer venta online? ¡Deja tu comentario y cuéntanos sobre tu experiencia como nuevo vendedor!</p>
+<p>&#8212;</p>
+<p>Si aún no has montado tu tienda online, <a href="http://www.prestashop.com/es/descarga" target="_blank">descarga PrestaShop</a> y estarás listo para hacer tu primer venta. Si ya tienes nuestro software, ¡<a href="http://addons.prestashop.com/es/" target="_blank">prueba los módulos </a>que te ayudaran a hacer más ventas!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/25-formas-de-hacer-tu-primera-venta-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Caso de Éxito: SelfPackaging con cajitas muy muy chulas</title>
+		<link>http://www.prestashop.com/blog/es/caso-de-exito-selfpackaging-con-cajitas-muy-muy-chulas/</link>
+		<comments>http://www.prestashop.com/blog/es/caso-de-exito-selfpackaging-con-cajitas-muy-muy-chulas/#comments</comments>
+		<pubDate>Mon, 07 Apr 2014 15:00:56 +0000</pubDate>
+		<dc:creator>Carolina Rabinovich</dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11189</guid>
+		<description><![CDATA[SelfPackaging, es una tienda online Española que cuenta con un amplísimo catálogo de cajitas de diseño y te permite hacer pedidos sin tener que pagar precios exorbitantes ni sufrir interminables plazos de entrega. La idea principal de la tienda es &#8230; <a href="http://www.prestashop.com/blog/es/caso-de-exito-selfpackaging-con-cajitas-muy-muy-chulas/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><a href="http://selfpackaging.es/" target="_blank">SelfPackaging</a>, es una tienda online Española que cuenta con un amplísimo catálogo de cajitas de diseño y te permite hacer pedidos sin tener que pagar precios exorbitantes ni sufrir interminables plazos de entrega. La idea principal de la tienda es aplicar el concepto de “hazlo tú mismo” al mundo de packaging, demostrando que montar tus propias cajitas de regalo no solo puede ser fácil y económico, sino incluso divertido.</p>
+<p>Conocimos al talentoso equipo de SelfPackaging en el eShow de Barcelona y luego nos pusimos en contacto con Eva Rodríguez, la social media strategist, para que nos cuente como transformaron SelfPackaging.es en una tienda de e-commerce tan exitosa.</p>
+<p><img class="aligncenter  wp-image-11243" src="http://www.prestashop.com/blog/es/files/2014/04/Screenshot-211.png" alt="" width="584" height="317" /></p>
+<p><span id="more-11189"></span></p>
+<h4><span style="color: #33cccc"><strong>Cuéntanos un poco sobre ti, tu equipo y SelfPackaging</strong></span></h4>
+<p>Veníamos del sector del packaging, en el que tenemos 20 años de experiencia, y con el desarrollo de Internet quisimos aprovechar las oportunidades que ofrecen las nuevas tecnologías.</p>
+<p>El equipo de la parte online está formado por <strong>Olga</strong>, es la encargada de gestionar Twitter y Facebook de Selfpackaging.es; <strong>Elisabeth</strong>, que es la encargada de llevar las redes sociales en inglés (selfpackaging.com), <strong>Nuria</strong> es la que lleva las redes sociales en francés (selfpackaging.fr) y yo (<strong>Eva</strong>), que coordino la estrategia de marketing y el funcionamiento de la web junto con el equipo de programación.</p>
+<p>El equipo de la parte offline lo integran <strong>Laura</strong> y <strong>Mireia</strong> (encargadas de diseñar las cajitas), el que trabaja en el taller de producción y el equipo informático externo.</p>
+<p>SelfPackaging es, como su nombre indica, “monta el paquete tu mismo” de una manera muy sencilla y rápida. El proceso de compra también es muy fácil:</p>
+<p style="padding-left: 30px">1.Eliges tus cajitas desde el catálogo de SelfPackaging según tus gustos y necesidades.<br />
+2.Personalizas las unidades, los colores y complementos que más te interesan.<br />
+3.Recibes las cajitas listas para montar con la ayuda de nuestros prácticos vídeos y consejos.</p>
+<p>Pueden ver este vídeo para aprender ¿<a href="https://www.youtube.com/watch?v=sVx94LoIZ5U" target="_blank">Qué es SelfPackaging</a>?</p>
+<h4><span style="color: #33cccc"><strong>¿Tenían una tienda online antes de usar PrestaShop?</strong></span></h4>
+<p>Sí teníamos, pero se trataba de una plataforma hecha a medida y esto conllevaba muchas limitaciones. El principal problema es que no permitía la escalabilidad de nuestro negocio.</p>
+<h4><span style="color: #33cccc"><strong>¿Cómo y por qué eligieron PrestaShop?</strong></span></h4>
+<p>Elegimos <strong>PrestaShop</strong> porque necesitábamos una plataforma de ecommerce que nos permitiera personalizar mucho la gestión de producto y que fuera sencilla y fácil de manejar para nosotros. Al ser una plataforma abierta, nos ha permitido configurarla al máximo y adaptarla a los productos de SelfPackaging. Además, hemos utilizado el módulo de idiomas, ya que además de selfpackaging.es tenemos la versión web en inglés selfpackaging.com y la versión francesa selfpackaging.fr.</p>
+<p><img class="aligncenter  wp-image-11192" src="http://www.prestashop.com/blog/es/files/2014/04/Screenshot-19.png" alt="porque eligieron prestashop" width="584" height="495" /></p>
+<h4><span style="color: #33cccc"><strong>¿Qué estrategia de marketing utilizan para atraer tráfico a su página web?</strong></span></h4>
+<p>Creo que nuestro punto fuerte es la atención al cliente y la comunidad que hemos construido en las redes sociales. Somos nosotros mismos, internamente, los que lo llevamos a cabo, pues somos los que mejor conocemos nuestro producto. ¡Y tenemos unos fans muy fieles!</p>
+<p><img class="aligncenter  wp-image-11196" src="http://www.prestashop.com/blog/es/files/2014/04/Screenshot-23.png" alt="redes sociales" width="584" height="383" /></p>
+<h4><span style="color: #33cccc"><strong>¿Qué estrategias implementan para convertir a un visitante en un cliente?</strong></span></h4>
+<p>Lo fundamental es atenderle siempre bien, rápido y hacerle la vida más fácil. El soporte de atención al cliente es algo que cada vez está cobrando más importancia. También escuchamos sus necesidades e intentamos lanzar productos que se adapten a ellas, ¡además de ser lo más bonitos y baratos posible, claro!</p>
+<h4><span style="color: #33cccc"><strong>¿En qué partes del mundo venden?</strong></span></h4>
+<p>En general nuestras ventas se centran en España, aunque recientemente hemos arrancado en el mercado internacional abriendo webs para Reino Unido y Francia, con el objetivo de expandirnos en estos países. En breve prevemos abrir también una web para Italia.</p>
+<p><img class="aligncenter  wp-image-11195" src="http://www.prestashop.com/blog/es/files/2014/04/Screenshot-22.png" alt="ventas internacionales" width="584" height="394" /></p>
+<h4><span style="color: #33cccc"><strong>¿Algo más que quieran compartir?</strong></span></h4>
+<p>Nuestro producto preferido son las cajas, que es alrededor de lo que gira toda la tienda. Todas ellas son diseños propios, que vamos adaptando a las diferentes necesidades de nuestros clientes.</p>
+<p>Visita las redes sociales de SelfPackaging donde podrás encontrar ideas de decoración para personalizar tus cajitas: <a href="https://www.facebook.com/SelfPackaging" target="_blank">Facebook</a>, <a href="http://www.pinterest.com/selfpackaging/" target="_blank">Pinterest </a>y <a href="http://instagram.com/selfpackaging/" target="_blank">Instagram</a>.</p>
+<p>&#8212;</p>
+<p>¿Quieres crear una tienda online como la de SelfPackaging? <a href="http://www.prestashop.com/es/descarga" target="_blank">Descarga PrestaShop</a> ya mismo o prueba nuestro <a href="http://www.prestashop.com/es/demo" target="_blank">Demo </a>para ver cómo funciona la plataforma que puede convertir tu idea en el próximo caso de éxito.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/caso-de-exito-selfpackaging-con-cajitas-muy-muy-chulas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Consejos de E-Marketing Para Las Ventas de Primavera</title>
+		<link>http://www.prestashop.com/blog/es/consejos-de-e-marketing-para-las-ventas-de-primavera/</link>
+		<comments>http://www.prestashop.com/blog/es/consejos-de-e-marketing-para-las-ventas-de-primavera/#comments</comments>
+		<pubDate>Thu, 03 Apr 2014 16:52:42 +0000</pubDate>
+		<dc:creator>Carolina Rabinovich</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11159</guid>
+		<description><![CDATA[Bienvenido al marketing estacional, la estrategia para ayudarte a aumentar ventas durante la primavera. A pesar de que las fiestas no se celebren al mismo tiempo en todos los países, podrás usar estos consejos de marketing para el día del &#8230; <a href="http://www.prestashop.com/blog/es/consejos-de-e-marketing-para-las-ventas-de-primavera/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Bienvenido al marketing estacional, la estrategia para ayudarte a aumentar ventas durante la primavera. A pesar de que las fiestas no se celebren al mismo tiempo en todos los países, podrás usar estos consejos de marketing para el <strong>día del padre</strong>, <strong>día de la madre</strong> y <strong>semana santa</strong> cuando sea apropiado.</p>
+<p>La idea es ayudarte a estar al tanto de las últimas tendencias de marketing con un plan orientado a las festividades del calendario. Hoy te damos varios <strong>consejos de marketing para que aproveches al máximo las ventas de primavera</strong>.</p>
+<p><img class="aligncenter size-full wp-image-11166" src="http://www.prestashop.com/blog/es/files/2014/04/ES_Emarketing-Tips-Spring-Holidays.jpg" alt="" width="590" height="265" /></p>
+<p><span id="more-11159"></span></p>
+<p>Hemos seleccionado estas ideas de marketing que podrás utilizar durante la estación de primavera para que florezcan tus ventas.</p>
+<h4><span style="color: #000000;">1. Email Marketing</span></h4>
+<p>Esta estrategia consiste en promocionar tus productos teniendo contacto directo con tus clientes a través del correo electrónico. Además, es la forma perfecta para promocionar tus productos para las fiestas.</p>
+<p>Puedes personalizar tus emails y boletines con temas primaverales y sugerir regalos para tus clientes. Recuerda <a href="http://www.prestashop.com/blog/es/como-utilizar-los-datos-de-sus-clientes-para-mejorar-las-ventas-de-su-tienda-online/" target="_blank">cómo utilizar los datos de tus clientes</a> para mandar códigos promocionales con palabras claves en relación a las fiestas.</p>
+<p>Si necesitas ideas para promocionar tu tienda online, <a href="http://www.campaignmonitor.com/guides/best-email-marketing-campaigns/" target="_blank">Campaignmonitor </a>te ofrece un recopilatorio con las mejores campañas del 2013.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11165" src="http://www.prestashop.com/blog/es/files/2014/04/email-marketing.png" alt="" width="466" height="334" /></p>
+<h4><span style="color: #000000;">2. Redes Sociales</span></h4>
+<p>Los consumidores son cada vez más activos en las redes sociales y ésto hace que las marcas hayan encontrado una forma más inmediata de interactuar con ellos. Puesto que tienes a miles de clientes conectados a tu tienda vía <a href="https://www.facebook.com/prestashop" target="_blank">Facebook</a>, <a href="http://instagram.com/prestashop#" target="_blank">Instagram</a>, <a href="https://twitter.com/prestashop" target="_blank">Twitter </a>o <a href="http://www.pinterest.com/prestashop/" target="_blank">Pinterest</a>, puedes involucrar a tu comunidad con juegos y concursos.</p>
+<p>Ideas para los concursos:</p>
+<ul>
+<li><strong>Día de la madre</strong>: pídele a tus clientes que pongan fotos con sus madres y la foto más original ganará un premio o recibirá un descuento para la próxima compra.</li>
+</ul>
+<ul>
+<li><strong> Día del padre</strong>: pídele a tus clientes que compartan una historia divertida sobre sus padres y ofrécele un producto gratis al cliente que cuente la anécdota más original.</li>
+</ul>
+<p>¡Piensa en ideas originales para crear conciencia de tu marca y promover ventas durante estas fechas especiales!</p>
+<p><img class="aligncenter  wp-image-11169" src="http://www.prestashop.com/blog/es/files/2014/04/redes-sociales.jpg" alt="" width="583" height="236" /></p>
+<h4><span style="color: #000000;">3. Promociones</span></h4>
+<p>¿Cómo personalizar tu tienda con temas para las fiestas? Agrega palabras claves, usa códigos de descuentos o crea promociones especiales.</p>
+<p>Usa palabras claves como “<em>eggpress shipping</em>” para ofrecer envíos gratis durante semana santa. Ofrece códigos como “<strong>MAMA15</strong>,” brindando un 15% de descuento en productos de mujer, o crea una lista de “<strong>50 regalos para papá a menos de $50</strong>.” Así, podrás ayudar a tus clientes a encontrar el regalo perfecto para las fiestas.</p>
+<p>También puedes personalizar la página principal de tu tienda online como nuestro cliente de PrestaShop, <a href="http://www.sweetisabelle.com/en/" target="_blank">Sweet Isabelle</a>, que ya está promocionando sus galletas con motivos del día de pascua.</p>
+<p><img class="aligncenter  wp-image-11170" src="http://www.prestashop.com/blog/es/files/2014/04/personaliza-tu-pagina-de-internter-para-pascua.png" alt="" width="583" height="367" /></p>
+<h4><span style="color: #000000;">4. Diseños Florales</span></h4>
+<p>Usa las fiestas a tu favor, durante los meses de marzo, abril y mayo decora tu tienda online con flores, estampados divertidos, colores, mariposas, huevos de pascua, conejos y mucho más.</p>
+<p>Como siempre, Google florece para recibir la primavera y presenta un logo colorido que destaca esta época del año.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11168" src="http://www.prestashop.com/blog/es/files/2014/04/logo-primaveral.jpg" alt="" width="480" height="246" /></p>
+<p>Recuerda que con la <a href="http://www.prestashop.com/blog/es/prestashop-1-6-esta-disponible-oficialmente-para-descargar/" target="_blank">nueva versión de PrestaShop 1.6</a> tienes atractivos banners promocionales para ayudarte a resaltar las ofertas, las campañas de marketing y otras promociones.</p>
+<p>No importa qué festividades incluya tu calendario local, la creación de un plan de marketing en torno a los eventos de temporada es una manera simple y eficaz de organizar tus esfuerzos de promoción. ¡Aprovecha la primavera y que florezcan tus ventas!</p>
+<h4><span style="color: #000000;">5. Calendario 2014</span></h4>
+<p>En la página de <strong>PrestaShop Addons</strong> hay calendarios para el <a href="http://addons.prestashop.com/es/calendario-e-commerce/11537-calendario-e-commerce-espana.html" target="_blank">año 2014 con las fiestas más importantes</a> de varios países, para ayudar a los vendedores a organizarse. Puedes descargar tu calendario gratuitamente desde <a href="http://addons.prestashop.com/es/" target="_blank">Addons</a>.</p>
+<p>¿Estás interesado en vender online? Crea tu tienda GRATIS con <a href="http://www.prestashop.com/es/descarga" target="_blank">PrestaShop </a>o prueba la <a href="http://www.prestashop.com/es/demo" target="_blank">demo</a> para conocer todos los detalles de la plataforma.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/consejos-de-e-marketing-para-las-ventas-de-primavera/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¡Estamos contratando Country Managers! ¡Forma parte del equipo de PrestaShop!</title>
+		<link>http://www.prestashop.com/blog/es/estamos-contratando-forma-parte-del-equipo-de-prestashop/</link>
+		<comments>http://www.prestashop.com/blog/es/estamos-contratando-forma-parte-del-equipo-de-prestashop/#comments</comments>
+		<pubDate>Thu, 03 Apr 2014 13:25:26 +0000</pubDate>
+		<dc:creator>Natalie Beigel</dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11109</guid>
+		<description><![CDATA[¿Eres curioso y apasionado? ¿Tienes ideas innovadoras? ¿Puedes trabajar en un entorno laboral dinámico? Si respondiste que sí a todas estas preguntas, ¡tenemos el trabajo ideal para ti! En PrestaShop pensamos a nivel mundial pero actuamos a nivel local y &#8230; <a href="http://www.prestashop.com/blog/es/estamos-contratando-forma-parte-del-equipo-de-prestashop/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>¿Eres curioso y apasionado? ¿Tienes ideas innovadoras? ¿Puedes trabajar en un entorno laboral dinámico? Si respondiste que sí a todas estas preguntas, ¡tenemos el trabajo ideal para ti!</p>
+<p><img class="aligncenter size-full wp-image-11110" title="ES_Country Manager Banner" src="http://www.prestashop.com/blog/es/files/2014/04/ES_Country-Manager-Banner.jpg" alt="" width="580" height="195" /><br />
+<span id="more-11109"></span></p>
+<p>En PrestaShop <span style="color: #4c4c4c;"><strong>pensamos a nivel mundial</strong></span> pero <strong><span style="color: #4c4c4c;">actuamos a nivel local</span></strong> y estamos buscando profesionales que nos ayuden a fortalecer nuestra presencia internacional. Vamos a incorporar nueve <strong><span style="color: #333333;">Country Managers</span></strong> al equipo de PrestaShop: Brasil, Canadá, Inglaterra, Alemania, Italia, España, Polonia, Rusia y Benelux.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-11116" title="ES_Countries" src="http://www.prestashop.com/blog/es/files/2014/04/ES_Countries.jpg" alt="" width="269" height="135" /></p>
+<p>Como agente de tu país representarás a PrestaShop con la misión de aumentar la notoriedad de la marca, aumentar la base de datos/usuarios e identificar asociaciones estratégicas para posicionarnos como la <em><strong>mejor</strong> </em>solución de e-commerce local.</p>
+<p>¡No esperes más! Aprovecha esta <strong><em><span style="color: #4c4c4c;">gran oportunidad</span></em></strong> y únete a nuestra familia de innovadores. ¡Encuentra todos los <a href="http://www.prestashop.com/es/country-manager-job" target="_blank">detalles sobre esta posición</a> y aplica aquí!</p>
+<p><span style="color: #4c4c4c;"><strong>Únete a nuestra familia de innovadores</strong></span><br />
+El equipo de PrestaShop está formado por entusiastas del comercio electrónico comprometidos para que nuestros clientes tengan un negocio online rentable y exitoso. Con sedes en París y Miami, trabajamos continuamente para ayudar a nuestros usuarios y fortalecer nuestra posición como líderes del sector e-commerce. Creemos que es necesario divertirse mientras se trabaja para así promover inspiración y creatividad. Contratamos a profesionales con pasión y curiosidad por la tecnología, que puedan aguantar nuestro entorno laboral dinámico y aporten ideas innovadoras. Además, fomentamos el crecimiento dentro de la empresa, recompensamos la iniciativa y promovemos siempre la motivación entre nuestros empleados.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/estamos-contratando-forma-parte-del-equipo-de-prestashop/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>La Gira Mundial de PrestaShop: En Auckland con Linden Leaves</title>
+		<link>http://www.prestashop.com/blog/es/la-gira-mundial-de-prestashop-en-auckland-con-linden-leaves/</link>
+		<comments>http://www.prestashop.com/blog/es/la-gira-mundial-de-prestashop-en-auckland-con-linden-leaves/#comments</comments>
+		<pubDate>Wed, 02 Apr 2014 14:24:59 +0000</pubDate>
+		<dc:creator>Quentin Audrain</dc:creator>
+				<category><![CDATA[PrestaShop World Tour]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11141</guid>
+		<description><![CDATA[Hoy en día varias tiendas de construcción y ladrillos están buscando formas de mantenerse relevantes y gracias a PrestaShop, estos negocios han podido unirse al mundo de e-commerce. En Nueza Zelanda hay un gran boom de pequeñas tiendas que están &#8230; <a href="http://www.prestashop.com/blog/es/la-gira-mundial-de-prestashop-en-auckland-con-linden-leaves/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Hoy en día varias tiendas de construcción y ladrillos están buscando formas de mantenerse relevantes y gracias a PrestaShop, estos negocios han podido unirse al mundo de e-commerce. En Nueza Zelanda hay un gran boom de pequeñas tiendas que están expandiendo su alcance al internet.</p>
+<p>Por otro lado, hay negocios que se dieron cuenta del valor del e-commerce hace algún tiempo atrás, como <a href="http://lindenleaves.com.au/" target="_blank">Linden Leaves</a>, que también integro PrestaShop como su plataforma de e-commerce. Linden Leaves es una marca bien conocida y establecida en Nueva Zelanda que exporta sus productos a Asia y Oceanía.</p>
+<p><img class="aligncenter size-full wp-image-11142" title="ES_Linden Leaves" src="http://www.prestashop.com/blog/es/files/2014/04/ES_Linden-Leaves.jpg" alt="" width="585" height="372" /><br />
+<span id="more-11141"></span><br />
+Los ciudadanos de Nueva Zelanda aman la agricultura de su país, el medio ambiente y hacer productos a mano. Esta es la razón por la cual los negocios de ladrillo y mortero necesitan una solución de e-commerce y una plataforma fácil de usar.</p>
+<p>¡Miren este video y conozcan a Juliet, quien nos cuenta todo acerca de su tienda online en Nueva Zelanda!<br />
+<iframe src="//player.vimeo.com/video/90748455" frameborder="0" width="500" height="281"></iframe></p>
+<p>Nuestra próxima parada: <span style="color: #008080;"><strong>AUSTRALIA</strong></span>.</p>
+<p>Siguenos en <a href="https://twitter.com/PrestaShop" target="_blank">Twitter</a>, <a href="http://instagram.com/prestashop#" target="_blank">Instagram</a> y <a href="https://www.facebook.com/prestashop" target="_blank">Facebook</a> con nuestro hashtag #PSWorldTour para ver todas las noticias y novedades de nuestra gira mundial.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/la-gira-mundial-de-prestashop-en-auckland-con-linden-leaves/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>8 Consejos Para Realizar Buenas Descripciones de Droductos</title>
+		<link>http://www.prestashop.com/blog/es/8-consejos-para-realizar-buenas-descripciones-de-droductos/</link>
+		<comments>http://www.prestashop.com/blog/es/8-consejos-para-realizar-buenas-descripciones-de-droductos/#comments</comments>
+		<pubDate>Tue, 01 Apr 2014 16:22:15 +0000</pubDate>
+		<dc:creator>Carolina Rabinovich</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11098</guid>
+		<description><![CDATA[La descripción de los productos de un e-commerce es la parte más importante de cualquier tienda online y si está bien escrita, multiplicará tus ventas. Con descripciones originales y detalladas podrás reducir las barreras que existen entre la pantalla y &#8230; <a href="http://www.prestashop.com/blog/es/8-consejos-para-realizar-buenas-descripciones-de-droductos/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>La descripción de los productos de un e-commerce es la parte más importante de cualquier tienda online y si está bien escrita, multiplicará tus ventas.</p>
+<p>Con descripciones originales y detalladas podrás reducir las barreras que existen entre la pantalla y el internauta y mejorarás tu SEO. Hoy te damos <strong>8 consejos para que realices buenas descripciones de productos </strong>en tu tienda online.</p>
+<p><img class="aligncenter size-full wp-image-11107" src="http://www.prestashop.com/blog/es/files/2014/04/ES_8-Tips-for-Product-Descriptions.jpg" alt="" width="580" height="230" /></p>
+<p><span id="more-11098"></span></p>
+<p>Tener una buena descripción de tus productos es fundamental, con descripciones de alta calidad atraerás más tráfico a tu tienda online y tendrás más ventas. Además, el contenido original te ayudará a tener un buen SEO posicionamiento en los motores de búsqueda. Tener contenidos duplicados es un problema típico del e-commerce, pero con <strong>estos 8 consejos podrás crear las mejores descripciones para tus productos</strong>.</p>
+<h4><span style="color: #f4a460">1. Menciona en detalle los beneficios</span></h4>
+<p>La descripción del producto debe mencionar detalladamente todos los beneficios. Aunque los clientes no tengan el producto en sus manos, deben tener la sensación de que lo pueden tocar y sentir. Explícales cuales son los beneficios: cómodo, ligero, bonito, suave, colorido, rápido, etc.</p>
+<p>Recuerda que los clientes solo leen una fracción del texto, por eso es importante tener una lista de los beneficios. Todos queremos la última moda, la tecnología más rápida, o los productos más exclusivos y la mejor forma de acumular ventas es mostrando que tienes lo que tus clientes buscan.</p>
+<p>La página de “<a href="http://selfpackaging.es/" target="_blank">cajitas muy muy chulas</a>” creada con PrestaShop nos cuenta que los beneficios de sus cajitas son: fáciles de transportar, fáciles de montar y tienen un sinfín de posibilidades de uso. Visita la tienda online donde encontraras ideas muy muy originales sobre cómo describir tus productos.</p>
+<p style="text-align: center"><img class="aligncenter  wp-image-11100" src="http://www.prestashop.com/blog/es/files/2014/04/1.-detalla-los-beneficios.png" alt="" width="466" height="374" /></p>
+<h4><span style="color: #f4a460">2. Cuenta una historia</span></h4>
+<p>Leer la descripción de un producto debe causar una experiencia placentera que ayude a despertar la necesidad al cliente de adquirir tu producto.</p>
+<p><a href="http://www.planetechocolat.com/en/" target="_blank">Planete Chocolat</a>, cliente de PrestaShop, incorpora cuentos en la descripción de su nueva colección de chocolates de pascuas. La tienda cautiva a los compradores contándoles que los chocolates fueron preparados con mucho cariño, están rellenos con cremas deliciosas y fueron elaborados para los amantes del chocolate.</p>
+<p style="text-align: center"><img class="aligncenter  wp-image-11101" src="http://www.prestashop.com/blog/es/files/2014/04/2.-cuenta-una-historia.png" alt="" width="466" height="351" /></p>
+<h4><span style="color: #f4a460">3. Describe todos los detalles</span></h4>
+<p>Como mencionamos previamente, los consumidores sólo pueden ver tus productos a través de una pantalla, por eso hay que describir los productos detalladamente. Por ejemplo, explica las texturas, las medidas, los colores, el peso o todas las características útiles del producto.</p>
+<p>La tienda <a href="http://madshop.net/" target="_blank">Madshop</a>, desarrollada con PrestaShop, detalla sus productos con contenido original y creativo. Mira cómo describen sus gadgets tecnológicos y regalos más originales:</p>
+<p style="text-align: center"><img class="aligncenter  wp-image-11102" src="http://www.prestashop.com/blog/es/files/2014/04/3.-Describe-todos-los-detalles.png" alt="" width="466" height="420" /></p>
+<h4><span style="color: #f4a460">4. Hazlo fácil de leer</span></h4>
+<p>Tener descripciones fáciles de leer simplifica el proceso de venta por internet. ¿Cómo atrapar al consumidor? Con descripciones cortas, claras y concretas.</p>
+<p><a href="http://www.bimbaylola.com/cms/" target="_blank">BIMBA Y LOLA</a> es una tienda electrónica de zapatos, bolsos, ropa y accesorios que también fue creada con PrestaShop y organiza la información de sus productos prolijamente. La imagen muestra toda la información en un menú desplegable, facilitando su lectura.</p>
+<p style="text-align: center"><img class="aligncenter  wp-image-11103" src="http://www.prestashop.com/blog/es/files/2014/04/4.-facil-de-leer.png" alt="" width="466" height="247" /></p>
+<h4><span style="color: #f4a460">5. Usa palabras claves</span></h4>
+<p>Escribir buenas descripciones es una prioridad a nivel SEO, te ayudará con tu posicionamiento en los motores de búsqueda. Para optimizar la información de tu tienda nunca utilices descripciones copiadas de otros sitios. Tienes que ser original, creativo y crear textos con valor añadido.</p>
+<p>Hay 3 tipos de palabras claves:</p>
+<p style="padding-left: 30px">•<strong>Amplias</strong>: una palabra clave genérica sobre un tema en concreto, “zapatos”<br />
+•<strong>Segmentadas</strong>: dos o tres palabras clave, “zapatos de mujer”<br />
+•<strong>Larga cola</strong>: más de tres palabras clave, “zapatos de mujer tacón negro”</p>
+<p>Puedes agregar una palabra clave de SEO amplia que atraerá muchas visitas o puedes poner varias palabras de larga cola para aparecer en los primeros puestos en los buscadores.</p>
+<p>Para saber cuales son las palabras más buscadas puedes utilizar herramientas como <a href="http://www.google.com/trends/" target="_blank">Google Trends</a> que muestra los términos de búsqueda más populares.</p>
+<p style="text-align: center"><img class="aligncenter  wp-image-11104" src="http://www.prestashop.com/blog/es/files/2014/04/5.-palabras-claves.png" alt="" width="466" height="233" /></p>
+<h4><span style="color: #f4a460">6. Deja que los demás describan por ti</span></h4>
+<p>Los comentarios de tus clientes son la mejor forma de generar contenido sobre tus productos y aumentar la conversión de tu tienda. Los usuarios valoran las opiniones de otros compradores para aprender sobre la calidad de un producto y saber como es tu servicio como vendedor.</p>
+<p>PrestaShop te ofrece <a href="http://addons.prestashop.com/es/buscar?search_query=customer%20reviews" target="_blank">varios módulos para que integres comentarios y opiniones de tus clientes</a>. También podrás incorporar los comentarios de eBay y Amazon a tu tienda online.</p>
+<h4><span style="color: #f4a460">7. Personaliza el contenido</span></h4>
+<p>Es imprescindible definir quiénes son tus compradores para saber qué tono usar en las descripciones y cuales son los beneficios que esperan obtener de tus productos.</p>
+<p>Por ejemplo, la tienda de <a href="http://www.madamechoup.com/" target="_blank">MadameChoup</a> tiene una clientela muy particular y se enfoca en describir sus delantales de forma que las mujeres no puedan resistirse a comprarlos. ¡<a href="http://www.madamechoup.com/" target="_blank">Visita la tienda</a> online y lee las descripciones!</p>
+<p style="text-align: center"><img class="aligncenter  wp-image-11106" src="http://www.prestashop.com/blog/es/files/2014/04/7.-Personaliza-el-contenido.png" alt="" width="480" height="468" /></p>
+<h4><span style="color: #f4a460">8. Usa palabras sensoriales</span></h4>
+<p>Usa palabras que estimulen uno de los cinco sentidos ya que ayudan a evocar sentimientos y aumentar ventas. Las palabras sensoriales retratan eventos vividos en relación a la vista, oído, tacto, gusto y olfato.</p>
+<p style="padding-left: 30px"><strong>•Vista</strong>: pequeño, alto, rojizo, gris, deforme, elegante<br />
+<strong>•Oído</strong>: silenciado, distorsionado, reventar, rugido<br />
+<strong>•Tacto</strong>: suave, duro o liso<br />
+<strong>•Gusto</strong>: salado, dulce o amargo<br />
+<strong>•Olfato</strong>: rancio, fragante o ahumado</p>
+<p>Una buena descripción debe asegurar, informar, convencer y seducir al cliente. No olvides incluir llamadas a la acción ya que combinar las descripciones con acciones genera más compras.</p>
+<p><strong><span style="color: #f4a460"><a href="http://www.prestashop.com/es/descarga" target="_blank"><span style="color: #f4a460">¡Descarga PrestaShop 1.6!</span></a></span></strong></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/8-consejos-para-realizar-buenas-descripciones-de-droductos/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 Ideas Para un Negocio Online Creativo – Inspiración para su E-commerce</title>
+		<link>http://www.prestashop.com/blog/es/5-ideas-para-un-negocio-online-creativo-inspiracion-para-su-e-commerce/</link>
+		<comments>http://www.prestashop.com/blog/es/5-ideas-para-un-negocio-online-creativo-inspiracion-para-su-e-commerce/#comments</comments>
+		<pubDate>Thu, 27 Mar 2014 13:58:02 +0000</pubDate>
+		<dc:creator>Natalie Beigel</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11081</guid>
+		<description><![CDATA[Es cierto, el ecommerce está saturado con los productos y las tendencias más populares– pero ¿qué ocurre con aquellos emprendedores que no se dejaron llevar por las modas pasajeras? Estos brillantes innovadores son la razón por la cual uno se &#8230; <a href="http://www.prestashop.com/blog/es/5-ideas-para-un-negocio-online-creativo-inspiracion-para-su-e-commerce/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Es cierto, el ecommerce está saturado con los productos y las tendencias más populares– pero ¿qué ocurre con aquellos emprendedores que no se dejaron llevar por las modas pasajeras? Estos brillantes innovadores son la razón por la cual uno se pregunta: ¿Por qué no se me ocurrió a mí?</p>
+<p>Presentamos 5 ideas para un negocio online creativo para los que necesiten un poco de inspiración e innovación. Después de todo, vivimos en un mundo donde darle vida a un negocio es simple, una vez encuentras esa gran idea.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11083" title="ES_Creative Online Business Ideas Blog Post" src="http://www.prestashop.com/blog/es/files/2014/03/ES_Creative-Online-Business-Ideas-Blog-Post.jpg" alt="" width="531" height="225" /></p>
+<p><span id="more-11081"></span><br />
+Tener un producto para vender no te garantiza éxito de ventas. Para asegurarte de que tienes una idea que vale la pena, prueba tu idea leyendo mi artículo sobre <a href="http://www.prestashop.com/blog/en/how-to-find-the-right-products-to-sell-online/" target="_blank">Cómo Encontrar los Productos Adecuados para Vender Online</a>.</p>
+<p>Echad un vistazo a los 5 negocios online que usaron PrestaShop para transformar una idea genial en un negocio práctico y exitoso.</p>
+<h4 style="text-align: center;"><span style="color: #691578;">Madame Choup</span></h4>
+<h6 style="text-align: center;">“WHEN FASHION INVITES ITSELF IN THE KITCHEN”</h6>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/Madame_Choup.png" alt="" /><strong><span style="color: #000000;">Lo que venden:</span></strong> <a href="http://www.madamechoup.com/" target="_blank">Madame Choup</a> vende delantales de cocina inspirados en los años 50. Los delantales son un producto atemporal, lo que significa que no son sólo una tendencia. Madame Choup se enfoca en diseñar delantales que las mujeres no puedan resistirse a utilizar. La tienda online ha sido premiada por PrestaShop por tener más de 8.000 más fans en Facebook.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11088" title="Madame Choup Products - Copy" src="http://www.prestashop.com/blog/es/files/2014/03/Madame-Choup-Products-Copy.jpg" alt="" width="564" height="278" /></p>
+<h4 style="text-align: center;"><span style="color: #691578;">Draw me a Song</span></h4>
+<h6 style="text-align: center;">“Fusión entre música y arte visual”</h6>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/logo.jpg" alt="" /><strong><span style="color: #000000;">Lo que venden:</span></strong> <a href="http://drawmeasong.com/" target="_blank">Draw Me a Song</a> vende ilustraciones coloridas y originales con las letras de las canciones más conocidas. La página de internet ganó el premio Deutsche Bank Creative Award en Febrero del 2011 y fue la página web semifinalista en el MIT Business Plan Competition en Febrero del 2012.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11082" title="Draw me a song products" src="http://www.prestashop.com/blog/es/files/2014/03/Draw-me-a-song-products.jpg" alt="" width="498" height="445" /></p>
+<h4 style="text-align: center;"><span style="color: #691578;">The Phobia Shop</span></h4>
+<h6 style="text-align: center;">“Ríete de tus miedos y abrázalos”</h6>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/logo-phobia-shop.jpg" alt="" /><strong><span style="color: #000000;">Lo que venden:</span></strong> <a href="http://www.thephobiashop.com/" target="_blank">The Phobia Shop</a> vende camisetas originales diseñadas en torno a los miedos más irracionales. Todo ser humano tiene alguna fobia y el objetivo de esta tienda online es que los clientes puedan divertirse y reírse de sus propios miedos. El concepto fue creado por una ex enfermera y ahora presidenta de Phobia Shop, Power Capote, que vio un mercado para este producto y creyó que el mundo podría ganar algunas sonrisas extras además de unas camisetas creativas.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11092" title="Phobia Shop Products" src="http://www.prestashop.com/blog/es/files/2014/03/Phobia-Shop-Products.jpg" alt="" width="588" height="321" /></p>
+<h4 style="text-align: center;"><span style="color: #691578;">Eatingtools</span></h4>
+<h6 style="text-align: center;">“come. cocina. explora.”</h6>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/logo-1.jpg" alt="" /><strong><span style="color: #000000;">Lo que venden:</span></strong> <a href="http://www.eatingtools.com/" target="_blank">Eatingtools</a>, es una tienda online basada en Brooklyn que vende maneje de cocina de alta calidad para los amantes de la cocina. Los artículos están hechos a mano, algunas colecciones son limitadas y otros productos son importados de las mejores empresas del mundo. Su tienda online, original y moderna, incluye multitud de imágenes grandes y llamativas.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11094" title="Eating Tools Products" src="http://www.prestashop.com/blog/es/files/2014/03/Eating-Tools-Products-1024x694.jpg" alt="" width="526" height="356" /></p>
+<h4 style="text-align: center;"><span style="color: #691578;">My Little Party</span></h4>
+<h6 style="text-align: center;">“Tu Fiesta Perfecta”</h6>
+<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/es/files/2014/03/My-little-party.jpg" alt="" /><strong><span style="color: #000000;">Lo que venden:</span></strong> <a href="http://www.mylittleparty.es/ " target="_blank">My Little Party</a> vende productos originales y con estilo que le dan un toque especial a tus fiestas. La tienda es española y vende de todo un poco: desde decoración hasta utensilios y accesorios, todo importado desde los Estados Unidos, Reino Unido o Australia. My Little Party ha sido recomendada por Elle, Marie Clair y Vogue.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11090" title="My Little Party Products" src="http://www.prestashop.com/blog/es/files/2014/03/My-Little-Party-Products.jpg" alt="" width="622" height="233" /></p>
+<h4 style="text-align: center;"><span style="color: #691578;">¿Se siente inspirado?</span></h4>
+<p>Monte una tienda online exitosa con nuestros <a href="http://www.prestashop.com/blog/es/como-crear-una-tienda-online-10-pasos-para-escribir-el-plan-de-negocio/" target="_blank">10 Pasos para Escribir un Plan de Negocio Ecommerce</a>.</p>
+<p>Además, ahora puede aprovecharse de la atractiva plantilla por defecto de PrestaShop y de su eficaz panel de administración para crear un negocio en auge como las tiendas que les hemos mostrado más arriba. <a href="http://www.prestashop.com/es/descarga" target="_blank">Descargue PrestaShop</a> gratuitamente ya mismo o pruebe nuestra <a href="http://www.prestashop.com/es/demo" target="_blank">demo</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/5-ideas-para-un-negocio-online-creativo-inspiracion-para-su-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>La Gira Mundial de PrestaShop: En Nueva Zelanda Con Flower Shop Auckland</title>
+		<link>http://www.prestashop.com/blog/es/la-gira-mundial-de-prestashop-en-nueva-zelanda-con-flower-shop-auckland/</link>
+		<comments>http://www.prestashop.com/blog/es/la-gira-mundial-de-prestashop-en-nueva-zelanda-con-flower-shop-auckland/#comments</comments>
+		<pubDate>Wed, 26 Mar 2014 13:47:32 +0000</pubDate>
+		<dc:creator>Quentin Audrain</dc:creator>
+				<category><![CDATA[PrestaShop World Tour]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11072</guid>
+		<description><![CDATA[Aquí estamos en Nueva Zelanda, donde vivimos una experiencia de e-commerce completamente distinta a las otras ciudades que hemos visitado hasta ahora. La gente de Nueva Zelanda siente un gran orgullo por sus negocios locales y promueven fuertemente comprar en &#8230; <a href="http://www.prestashop.com/blog/es/la-gira-mundial-de-prestashop-en-nueva-zelanda-con-flower-shop-auckland/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Aquí estamos en Nueva Zelanda, donde vivimos una experiencia de e-commerce completamente distinta a las otras ciudades que hemos visitado hasta ahora.</p>
+<p>La gente de Nueva Zelanda siente un gran orgullo por sus negocios locales y promueven fuertemente comprar en tiendas locales. Los ciudadanos de este país aman estar al aire libre e interactuar con su comunidad.<br />
+<img class="alignleft size-full wp-image-11074" title="ES_New Zealand PrestaShop World Tour" src="http://www.prestashop.com/blog/es/files/2014/03/ES_New-Zealand-PrestaShop-World-Tour.jpg" alt="" width="585" height="329" /><br />
+<span id="more-11072"></span><br />
+Pero la pregunta es, ¿Cómo funciona el e-commerce en esta parte del mundo? La nueva generación de jóvenes demuestra estar muy activa en todo lo que incluye shopping online y teléfonos móviles.</p>
+<p style="text-align: center;"><img class=" wp-image-11073 aligncenter" title="Flower Shop Auckland" src="http://www.prestashop.com/blog/es/files/2014/03/Flower-Shop-Auckland.jpg" alt="" width="464" height="310" /></p>
+<p>Vean este video para conocer a Kerry y Francis, dueños de <a href="http://flowershopauckland.co.nz/" target="_blank">Flower Shop Auckland</a>, una florería online que fue lanzada con PrestaShop recientemente y vende flores para cualquier ocasión.</p>
+<p><iframe src="//player.vimeo.com/video/90115697" frameborder="0" width="500" height="281"></iframe></p>
+<p><a href="http://vimeo.com/90115697">Ecommerce WorldTour &#8211; Flower Shop Auckland, New Zealand</a> from <a href="http://vimeo.com/prestashop">PrestaShop</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p>Síguenos en <a href="https://twitter.com/PrestaShop" target="_blank">Twitter</a>, <a href="http://instagram.com/prestashop#" target="_blank">Instagram</a> y <a href="https://www.facebook.com/prestashop" target="_blank">Facebook</a> con nuestro hashtag <span style="color: #000000;"><strong>#PSWorldTour</strong></span> para ver todas las noticias y novedades de nuestra gira mundial.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/la-gira-mundial-de-prestashop-en-nueva-zelanda-con-flower-shop-auckland/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Served from: www.prestashop.com @ 2014-04-12 19:56:03 -->
